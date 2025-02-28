@@ -8,7 +8,7 @@ This project implements Deep Q-Network (DQN) using Stable-Baselines3 to train an
 **Installation& Setup**
 
 1.) Clone the repository
-git clone https://github.com/your-username/rlproject.git
+https://github.com/TechAZsure/Reinforcement-AI_robot.git
 cd rlproject
 
 2.) Create & Activate Virtual Environment
