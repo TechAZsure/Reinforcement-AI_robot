@@ -43,3 +43,7 @@ To evaluate the agent’s performance over multiple episodes:
 
 ![alt text](evaluating.JPG)
 
+
+**Checking of output**
+"Python reward.py"
+![alt text](reward.png)
