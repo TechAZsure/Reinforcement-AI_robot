@@ -5,7 +5,7 @@ from stable_baselines3 import DQN
 model = DQN.load("dqn_cartpole")
 
 # Create the environment
-env = gym.make("CartPole-v1")
+env = gym.make("CartPole-v1", render_mode="human")
 
 # Run the model in the environment
 obs, _ = env.reset()  # Unpack tuple (obs, info)
