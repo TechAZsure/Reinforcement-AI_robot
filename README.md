@@ -33,7 +33,7 @@ The trained model will be saved as dqn_cartpole.zip
 
 To run the trained model and visualize its performance:
 "Python simulate.py"
-
+![alt text](simulate_1.png)
 ![alt text](simulate.JPG)
 
 **Evaluating Model Performance**
